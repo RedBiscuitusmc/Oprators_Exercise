@@ -1,0 +1,15 @@
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\obj\Debug\net6.0\Oprations_exercise.csproj.AssemblyReference.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\obj\Debug\net6.0\Oprations_exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\obj\Debug\net6.0\Oprations_exercise.AssemblyInfoInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\obj\Debug\net6.0\Oprations_exercise.AssemblyInfo.cs
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\obj\Debug\net6.0\Oprations_exercise.csproj.CoreCompileInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\bin\Debug\net6.0\Oprations_exercise.exe
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\bin\Debug\net6.0\Oprations_exercise.deps.json
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\bin\Debug\net6.0\Oprations_exercise.runtimeconfig.json
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\bin\Debug\net6.0\Oprations_exercise.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\bin\Debug\net6.0\Oprations_exercise.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\obj\Debug\net6.0\Oprations_exercise.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\obj\Debug\net6.0\refint\Oprations_exercise.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\obj\Debug\net6.0\Oprations_exercise.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\obj\Debug\net6.0\Oprations_exercise.genruntimeconfig.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\OperatorExercise\Oprations_exercise\Oprations_exercise\obj\Debug\net6.0\ref\Oprations_exercise.dll

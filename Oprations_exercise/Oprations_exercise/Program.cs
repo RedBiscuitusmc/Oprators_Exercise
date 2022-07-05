@@ -33,6 +33,9 @@ namespace Variables_Exercise_01
 
 
             Operators.Operators_Class.OP_1();
+            Operators.Operators_Class.Area_Of_Circle();
+
+            
 
         }//========================================================================================================
 
